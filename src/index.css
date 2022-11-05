@@ -1,0 +1,64 @@
+.{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  text-align: center;
+  background-color: rgb(27, 21, 41);
+  color: #fff;
+}
+
+h1{
+  padding: 2rem 1rem;
+  margin-bottom: 1rem;
+}
+input{
+  appearance: none;
+  outline: none;
+  border: none;
+  background: #EEE;
+  width: 100%;
+  max-width: 300px;
+  padding:  0.5rem 1rem;
+  border-radius: 00.5rem;
+  margin-right: 1rem;
+}
+button, a{
+  appearance: none;
+  outline: none;
+  border: none;
+  background: none;
+  cursor:pointer;
+  color:rgb(11, 245, 112);
+  font-size: 1.5rem;
+  line-height: 1;
+  text-decoration: none;
+
+}
+
+img{
+  display: block;
+  width: 100%;
+  max-width: 480px; ;
+  margin: 2rem auto;
+}
+
+.app {
+	padding: 2rem;
+}
+.btnkm{
+  font-family: sans-serif;
+  background-color: rgb(35, 22, 24);
+  color: rgba(21, 38, 229, 0.959);
+  border-radius: 1rem;
+  padding: 5px;
+  height: 3rem;
+  border: solid 2px rgb(28, 0, 211) ;
+
+}
+.btnkm:hover{
+  color: rgb(14, 138, 7);
+}
