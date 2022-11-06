@@ -1,8 +1,8 @@
 # Project- QR Code Generator 
 
-![Badge]()
+![Badge](https://img.shields.io/badge/QR-Generator-green)
 
-# [Link of live Project]()
+# [Link of live Project](https://qrccodegen.netlify.app/)
 
 ![Images](./public/img/qr.jpeg)
 
